@@ -1,6 +1,3 @@
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px" > <br/>
-
-
 I'm Samartsev Igor. I'm a Full Stack Developer, Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻.
 
 
