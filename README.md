@@ -34,10 +34,6 @@ I'm Samartsev Igor. I'm a Full Stack Developer, Competitive coder 🤓, and a Fo
 <br/>
 <br/>
 
-**My Github Stats 📊:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samartsevigor&layout=compact)](https://github.com/samartsevigor/github-readme-stats)
-
 
 
 
