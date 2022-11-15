@@ -1,12 +1,4 @@
-I'm Samartsev Igor. I'm a Full Stack Developer, Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻.
-
-
-**Things You Should know about Me!**
-
-- 👨🏻‍💻 I'm currently working as a Team Leader full stack developer at Nevis.
-- ✍🏻 I often write in my leisure time.
-- 📧 Reach me out at igorsamartsev@gmail.com.
-- 🤝🏻 Always open for collaboration.
+I'm Samartsev Igor. I'm a Full Stack Developer, Competitive coder 🤓🏻‍💻.
 
 
 **Technologies I frequently use:**
